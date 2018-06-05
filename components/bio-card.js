@@ -1,0 +1,1 @@
+// This page will map through all profiles and create a card detail
